@@ -57,14 +57,9 @@
             <version>1.5.1</version>
         </dependency>
     </dependencies>
-    <organization>
-        <name>odoo-java</name>
-        <url>http://odoo-java.com</url>
-    </organization>
     <scm>
-        <url>https://github.com/odoo-java/odoo-java-api</url>
+        <url>https://github.com/florian74/odoo-java-api</url>
+        <connection>scm:git:git://github.com/florian74/odoo-java-api.git</connection>
+        <developerConnection>scm:git:git@github.com:florian74/odoo-java-api.git</developerConnection>
     </scm>
-    <issueManagement>
-        <url>https://github.com/odoo-java/odoo-java-api/issues</url>
-    </issueManagement>
 </project>
